@@ -8,7 +8,15 @@ Implementar funções para o sistema de estacionamento no módulo de fundamentos
 Eu fui contratado para construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.
 
 ## Solução: 
-Realizei as implementações solicitadas pelo curso, como realizar implementação da função que pega os dados digitados pelo usuário, fazer calculos de valor hora e valor final, e implementei duas funcionalidades que não estavam previstas no escopo inicial:
+Realizei as implementações solicitadas pelo curso, como realizar implementação da função que pega os dados digitados pelo usuário, utilizando o Console.ReadLine()
+
+Fazer calculos de valor hora e valor final..
+
+Adicionar e remover strings da List de placas.
+
+Percorer a List com foreach.
+
+E implementei duas funcionalidades que não estavam previstas no escopo inicial:
 
 Validações idealizadas e implementadas por mim:
 
