@@ -22,4 +22,4 @@ Validações idealizadas e implementadas por mim:
 
 - O estacionamento não permite que mais de um veículo com a mesma placa seja inserido. Caso tente, ele retornará a mensagem "Este veículo já está estacionado. Digite outro" E não adiciona a lista de veículos adicionados.
 
-- O estacionamento não permite que o usuário digite um texto em branco para a placaa. Caso tente, ele retornará a mensagem "Você não digitou nenhum texto ou apenas espaços em branco." E não adiciona a lista de veículos adicionados.
+- O estacionamento não permite que o usuário digite um texto em branco para a placa. Caso tente, ele retornará a mensagem "Você não digitou nenhum texto ou apenas espaços em branco." E não adiciona a lista de veículos adicionados.
